@@ -1,0 +1,7 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: rgb(56,41,147);
+  background-image: radial-gradient(37.88% 68.62% at 50% 0, #1103284d, #08041000 10%), radial-gradient(10% 10% at 10% 10%, #8342f4a1, #080d1c66 0%, #035b9f00), radial-gradient(100% 28.09% at 100% 10%, #0d0c1a33, #46007c1a 80%, #00007c00), linear-gradient(180deg, #44007c13 35.79%, #46007c0d 100%, #100d17 80%), radial-gradient(74.84% 135.56% at 100% 10%, #290a9776, #0e0d17 90%);
+  font-family: Arial, Helvetica, sans-serif;
+}
