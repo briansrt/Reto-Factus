@@ -1,7 +1,7 @@
 import './App.css';
 import {BrowserRouter, Routes, Route} from 'react-router-dom'; 
 import { useState } from 'react';
-import Login from './components/login';
+import Login from './components/Login';
 import Dashboard from './components/Dashboard';
 import CrearFactura from './components/CrearFactura';
 import VerFactura from './components/VerFactura';
